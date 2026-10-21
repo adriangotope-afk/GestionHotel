@@ -1,0 +1,2 @@
+101;sencilla;123456.0;Limpieza
+102;doble;180000.0;Disponible
